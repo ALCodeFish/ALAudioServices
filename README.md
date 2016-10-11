@@ -1,6 +1,6 @@
 # ALAudioServices
 
-音效服务，基于AudioToolbox/AudioServices系统音效服务的封装。
+ALAudioServices音效服务，基于AudioToolbox/AudioServices系统音效服务的封装。
 
 
 ## Quick Start
